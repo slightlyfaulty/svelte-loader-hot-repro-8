@@ -1,0 +1,1 @@
+Minimal reproduction of [rixo/svelte-loader-hot#8](https://github.com/rixo/svelte-loader-hot/issues/8)
